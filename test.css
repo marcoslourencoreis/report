@@ -1,0 +1,13 @@
+
+
+.title {
+    border: 5px black solid;
+    text-align: center;
+}
+
+.section-format {
+    text-align: center;
+    display:inline-block;
+    border: 1px black solid;
+}
+
